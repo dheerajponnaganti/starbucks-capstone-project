@@ -1,5 +1,5 @@
 # Starbucks Capstone Challenge
-Optimizing App Offers With Starbucks
+Optimizing App Offers With Starbucks. This project was done as a part of Udacity Machine Learning Engineer nanodegree.
 
 # Runtime Requirement
 The notebooks need Python 3 environment. 
